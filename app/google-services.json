@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "998458954326",
+    "firebase_url": "https://snapcart-a4816-default-rtdb.firebaseio.com",
+    "project_id": "snapcart-a4816",
+    "storage_bucket": "snapcart-a4816.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998458954326:android:6f6c89ecd184c028dee1f7",
+        "android_client_info": {
+          "package_name": "com.example.snapcart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz_JS1BdY5lI3r63lsgVxcMNmiI9khZjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

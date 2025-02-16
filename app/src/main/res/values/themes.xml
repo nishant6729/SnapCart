@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MySplashScreen" parent="Theme.SplashScreen">
+        <item name="android:windowSplashScreenBackground">@color/bottle_green</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/logo_with_padding</item>
+        <item name="postSplashScreenTheme">@style/Theme.SnapCart</item>
+
+
+    </style>
+    <style name="Theme.SnapCart" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
